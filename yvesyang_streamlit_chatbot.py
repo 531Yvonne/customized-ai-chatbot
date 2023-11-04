@@ -1,5 +1,6 @@
 # Reference: Implemented with the help of Streamlit Website Generative AI Examples
 
+import os
 import openai
 import streamlit as st
 import csv
